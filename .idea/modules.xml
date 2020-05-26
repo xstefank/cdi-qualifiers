@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cdi-qualifiers.iml" filepath="$PROJECT_DIR$/cdi-qualifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qualifiers/qualifiers.iml" filepath="$PROJECT_DIR$/qualifiers/qualifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quarkus-injection/quarkus-injection.iml" filepath="$PROJECT_DIR$/quarkus-injection/quarkus-injection.iml" />
+    </modules>
+  </component>
+</project>
